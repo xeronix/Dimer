@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dimer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	
+    <string name="alarm_data_file_name">com.vmandroid.dimer.alarmdata</string>
+    
+    <string name="flight_source">Flight_Source</string>
+    <string name="flight_destination">Flight_Destination</string>
+    <string name="flight_date">Flight_Date</string>
+    <string name="flight_targetFare">Flight_Target</string>
+    
+    <string name="flight_source_default_value">DNE</string>
+    <string name="flight_destination_default_value">DNE</string>
+    <string name="flight_date_default_value">0</string>
+    <string name="flight_targetFare_default_value">-1</string>
+    
+    <string name="alarm_data_commit_failure_message">Error: Unable to save alarm data.</string>
+</resources>
